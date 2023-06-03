@@ -11,4 +11,3 @@
 ![image](https://github.com/SelimErenKarar/NinjaFruitFrog/assets/121455925/5d26ada7-e50b-44de-a0e5-261d591657ef)
 ![image](https://github.com/SelimErenKarar/NinjaFruitFrog/assets/121455925/b5bbb430-5c8f-4bc4-bace-b473e700414c)
 ![image](https://github.com/SelimErenKarar/NinjaFruitFrog/assets/121455925/546a0bd3-1f84-485a-9e34-2c00bf3d00c3)
-![image](https://github.com/SelimErenKarar/NinjaFruitFrog/assets/121455925/a15d2f12-499c-47fc-8812-f967bd2b2d4e)
